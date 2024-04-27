@@ -39,6 +39,10 @@ Install frontend dependencies:
 1. naviget to frontend command : cd frontend
 2. install module command : npm install
 3. run frontend command: npm run dev
+4. onle 3 working url for frontend
+   1. http://localhost:3000/inventory
+   2. http://localhost:3000/login
+   3. inventory add and edit http://localhost:3000/inventory/id (this page only accessble for Store manager)
    
 
 install backend dependencies:
