@@ -35,8 +35,11 @@ git clone https://github.com/ashutosh164/assignment-storemanagement.git
 2. Navigate to the project directory:
 cd assignment-storemanagement
 
-3. Install frontend dependencies:
-npm install
+Install frontend dependencies:
+1. naviget to frontend command : cd frontend
+2. install module command : npm install
+3. run frontend command: npm run dev
+   
 
 install backend dependencies:
 1. create a virtual environment
